@@ -39,13 +39,13 @@ const Contact = () => {
             <div className="p-6 rounded-2xl bg-card shadow-soft space-y-5">
               <InfoRow icon={MapPin} title="Address" lines={["Beach Road", "Kozhikode, Kerala 673001"]} />
               <InfoRow icon={Phone} title="Phone" lines={["+919999999999"]} />
-              <InfoRow icon={Mail} title="Email" lines={["hello@rubicleafcafe.in"]} />
+              <InfoRow icon={Mail} title="Email" lines={["hello@greenleafcafe.in"]} />
               <InfoRow icon={Clock} title="Hours" lines={["Mon — Sun · 8 AM — 10 PM"]} />
             </div>
 
             <div className="rounded-2xl overflow-hidden shadow-soft aspect-[16/10] bg-muted">
               <iframe
-                title="RubicLeaf Café location"
+                title="GreenLeaf Café location"
                 src="https://www.google.com/maps?q=Beach+Road,+Kozhikode,+Kerala&output=embed"
                 className="w-full h-full border-0"
                 loading="lazy"

@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="absolute inset-0">
         <img
           src={hero}
-          alt="Fresh vegetarian dishes at RubicLeaf Café"
+          alt="Fresh vegetarian dishes at GreenLeaf Café"
           className="w-full h-full object-cover"
           width={1920}
           height={1280}
@@ -35,7 +35,7 @@ const Hero = () => {
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="https://wa.me/919999999999?text=Hi%20RubicLeaf%2C%20I'd%20like%20to%20place%20an%20order"
+              href="https://wa.me/919999999999?text=Hi%20GreenLeaf%2C%20I'd%20like%20to%20place%20an%20order"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full border border-white/40 backdrop-blur-sm text-primary-foreground font-medium hover:bg-white/10 transition-colors"

@@ -32,7 +32,7 @@ const Navbar = () => {
           <span className="w-9 h-9 rounded-full bg-gradient-leaf grid place-items-center text-primary-foreground">
             <Leaf className="w-5 h-5" strokeWidth={2.2} />
           </span>
-          <span>RubicLeaf<span className="text-primary"> Café</span></span>
+          <span>GreenLeaf<span className="text-primary"> Café</span></span>
         </a>
 
         <ul className="hidden md:flex items-center gap-8">

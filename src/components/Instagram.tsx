@@ -13,7 +13,7 @@ const Instagram = () => (
     <div className="container-tight">
       <div className="text-center mb-12">
         <p className="text-primary text-sm font-medium tracking-widest uppercase mb-4">Follow Along</p>
-        <h2 className="text-3xl md:text-4xl mb-3">@rubicleaf.kozhikode</h2>
+        <h2 className="text-3xl md:text-4xl mb-3">@greenleaf.kozhikode</h2>
         <p className="text-muted-foreground">A peek into our daily kitchen on Instagram.</p>
       </div>
       <div className="grid grid-cols-3 md:grid-cols-6 gap-2 md:gap-3">

@@ -27,7 +27,7 @@ const About = () => {
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.6 }}
                 src={about}
-                alt="Inside RubicLeaf Café in Kozhikode"
+                alt="Inside GreenLeaf Café in Kozhikode"
                 loading="lazy"
                 className="w-full h-full object-cover aspect-square"
               />
@@ -46,7 +46,7 @@ const About = () => {
               A little corner of <span className="text-gradient italic">Kozhikode</span>, rooted in goodness.
             </h2>
             <p className="text-muted-foreground text-lg mb-6 leading-relaxed">
-              RubicLeaf Café started with a simple idea: serve food that's good for you and good for the planet. We bring the freshest organic produce from Kerala's farms straight to your plate.
+              GreenLeaf Café started with a simple idea: serve food that's good for you and good for the planet. We bring the freshest organic produce from Kerala's farms straight to your plate.
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed">
               From bowls bursting with colour to slow-brewed coffees, every detail is thoughtful — because eating well shouldn't be complicated.

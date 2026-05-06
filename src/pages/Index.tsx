@@ -12,7 +12,7 @@ const Index = () => {
   const ldJson = {
     "@context": "https://schema.org",
     "@type": "Restaurant",
-    name: "RubicLeaf Café",
+    name: "GreenLeaf Café",
     servesCuisine: "Vegetarian",
     address: {
       "@type": "PostalAddress",
@@ -23,7 +23,7 @@ const Index = () => {
       addressCountry: "IN",
     },
     telephone: "+919999999999",
-    email: "hello@rubicleafcafe.in",
+    email: "hello@greenleafcafe.in",
     priceRange: "₹₹",
   };
   return (

@@ -8,7 +8,7 @@ const Footer = () => (
           <span className="w-9 h-9 rounded-full bg-primary-foreground/15 grid place-items-center">
             <Leaf className="w-5 h-5" />
           </span>
-          RubicLeaf Café
+          GreenLeaf Café
         </a>
         <p className="text-primary-foreground/70 text-sm leading-relaxed max-w-xs">
           Fresh, organic, vegetarian food served with love in the heart of Kozhikode.
@@ -46,7 +46,7 @@ const Footer = () => (
     </div>
     <div className="border-t border-primary-foreground/10">
       <div className="container-tight py-6 text-center text-primary-foreground/60 text-sm">
-        © {new Date().getFullYear()} RubicLeaf Café. All rights reserved.
+        © {new Date().getFullYear()} GreenLeaf Café. All rights reserved.
       </div>
     </div>
   </footer>
